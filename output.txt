@@ -1,0 +1,170 @@
+Shell sort with random array took 0 milliseconds.
+Shell sort with increasing array took 0 milliseconds.
+Shell sort with decreasing array took 0 milliseconds.
+
+Insertion sort with random array took 0 milliseconds.
+Insertion sort with increasing array took 0 milliseconds.
+Insertion sort with decreasing array took 0 milliseconds.
+
+Selection sort with random array took 0 milliseconds.
+Selection sort with increasing array took 0 milliseconds.
+Selection sort with decreasing array took 0 milliseconds.
+
+Bubble sort with random array took 0 milliseconds.
+Bubble sort with increasing array took 0 milliseconds.
+Bubble sort with decreasing array took 0 milliseconds.
+
+
+Shell sort with random array took 0 milliseconds.
+Shell sort with increasing array took 0 milliseconds.
+Shell sort with decreasing array took 0 milliseconds.
+
+Insertion sort with random array took 15 milliseconds.
+Insertion sort with increasing array took 0 milliseconds.
+Insertion sort with decreasing array took 0 milliseconds.
+
+Selection sort with random array took 0 milliseconds.
+Selection sort with increasing array took 15 milliseconds.
+Selection sort with decreasing array took 0 milliseconds.
+
+Bubble sort with random array took 0 milliseconds.
+Bubble sort with increasing array took 16 milliseconds.
+Bubble sort with decreasing array took 0 milliseconds.
+
+
+Shell sort with random array took 6 milliseconds.
+Shell sort with increasing array took 0 milliseconds.
+Shell sort with decreasing array took 0 milliseconds.
+
+Insertion sort with random array took 94 milliseconds.
+Insertion sort with increasing array took 0 milliseconds.
+Insertion sort with decreasing array took 173 milliseconds.
+
+Selection sort with random array took 159 milliseconds.
+Selection sort with increasing array took 157 milliseconds.
+Selection sort with decreasing array took 141 milliseconds.
+
+Bubble sort with random array took 235 milliseconds.
+Bubble sort with increasing array took 141 milliseconds.
+Bubble sort with decreasing array took 267 milliseconds.
+
+
+Shell sort with random array took 46 milliseconds.
+Shell sort with increasing array took 14 milliseconds.
+Shell sort with decreasing array took 16 milliseconds.
+
+Insertion sort with random array took 11373 milliseconds.
+Insertion sort with increasing array took 0 milliseconds.
+Insertion sort with decreasing array took 36136 milliseconds.
+
+Selection sort with random array took 34339 milliseconds.
+Selection sort with increasing array took 34332 milliseconds.
+Selection sort with decreasing array took 31037 milliseconds.
+
+Bubble sort with random array took 73164 milliseconds.
+Bubble sort with increasing array took 31421 milliseconds.
+Bubble sort with decreasing array took 54239 milliseconds.
+
+
+Shell sort with random array took 274 milliseconds.
+Shell sort with increasing array took 40 milliseconds.
+Shell sort with decreasing array took 79 milliseconds.
+
+Insertion sort with random array took 108284 milliseconds.
+Insertion sort with increasing array took 7 milliseconds.
+Insertion sort with decreasing array took 226884 milliseconds.
+
+Selection sort with random array took 215376 milliseconds.
+Selection sort with increasing array took 217083 milliseconds.
+Selection sort with decreasing array took 194762 milliseconds.
+
+Bubble sort with random array took 497117 milliseconds.
+Bubble sort with increasing array took 197764 milliseconds.
+Bubble sort with decreasing array took 340963 milliseconds.
+
+
+Shell sort with random array took 0 milliseconds.
+Shell sort with increasing array took 0 milliseconds.
+Shell sort with decreasing array took 0 milliseconds.
+
+Insertion sort with random array took 0 milliseconds.
+Insertion sort with increasing array took 0 milliseconds.
+Insertion sort with decreasing array took 0 milliseconds.
+
+Selection sort with random array took 0 milliseconds.
+Selection sort with increasing array took 0 milliseconds.
+Selection sort with decreasing array took 0 milliseconds.
+
+Bubble sort with random array took 0 milliseconds.
+Bubble sort with increasing array took 0 milliseconds.
+Bubble sort with decreasing array took 0 milliseconds.
+
+
+Shell sort with random array took 15 milliseconds.
+Shell sort with increasing array took 0 milliseconds.
+Shell sort with decreasing array took 0 milliseconds.
+
+Insertion sort with random array took 0 milliseconds.
+Insertion sort with increasing array took 0 milliseconds.
+Insertion sort with decreasing array took 0 milliseconds.
+
+Selection sort with random array took 15 milliseconds.
+Selection sort with increasing array took 0 milliseconds.
+Selection sort with decreasing array took 0 milliseconds.
+
+Bubble sort with random array took 17 milliseconds.
+Bubble sort with increasing array took 0 milliseconds.
+Bubble sort with decreasing array took 14 milliseconds.
+
+
+Shell sort with random array took 0 milliseconds.
+Shell sort with increasing array took 0 milliseconds.
+Shell sort with decreasing array took 0 milliseconds.
+
+Insertion sort with random array took 91 milliseconds.
+Insertion sort with increasing array took 0 milliseconds.
+Insertion sort with decreasing array took 173 milliseconds.
+
+Selection sort with random array took 173 milliseconds.
+Selection sort with increasing array took 173 milliseconds.
+Selection sort with decreasing array took 141 milliseconds.
+
+Bubble sort with random array took 220 milliseconds.
+Bubble sort with increasing array took 155 milliseconds.
+Bubble sort with decreasing array took 270 milliseconds.
+
+
+Shell sort with random array took 48 milliseconds.
+Shell sort with increasing array took 0 milliseconds.
+Shell sort with decreasing array took 15 milliseconds.
+
+Insertion sort with random array took 6461 milliseconds.
+Insertion sort with increasing array took 9 milliseconds.
+Insertion sort with decreasing array took 36257 milliseconds.
+
+Selection sort with random array took 34425 milliseconds.
+Selection sort with increasing array took 34313 milliseconds.
+Selection sort with decreasing array took 31082 milliseconds.
+
+Bubble sort with random array took 73086 milliseconds.
+Bubble sort with increasing array took 31548 milliseconds.
+Bubble sort with decreasing array took 54415 milliseconds.
+
+
+Shell sort with random array took 126 milliseconds.
+Shell sort with increasing array took 32 milliseconds.
+Shell sort with decreasing array took 30 milliseconds.
+
+Insertion sort with random array took 108786 milliseconds.
+Insertion sort with increasing array took 8 milliseconds.
+Insertion sort with decreasing array took 217611 milliseconds.
+
+Selection sort with random array took 205843 milliseconds.
+Selection sort with increasing array took 206573 milliseconds.
+Selection sort with decreasing array took 185769 milliseconds.
+
+Bubble sort with random array took 473052 milliseconds.
+Bubble sort with increasing array took 188244 milliseconds.
+Bubble sort with decreasing array took 326633 milliseconds.
+
+
